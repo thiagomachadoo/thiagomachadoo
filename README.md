@@ -1,7 +1,8 @@
 ### Opa! Eu sou o Thiago Machado 👋
 
 
-
+- 🏴‍☠️ Comecei minha carreira como dev com 16 anos, atualmente tenho 18
+- 💻 Trabalhei com poucos trabalhos freelancer usando JS,HTML,CSS
 - 🔭 Hoje estou estudando para ser um Dev Java Full-Stack
 - 🌱 Obtendo conhecimento e aprimorando com a GeneratiON
 
