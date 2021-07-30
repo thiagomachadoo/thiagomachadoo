@@ -15,7 +15,7 @@
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-JAVA" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="right" alt="Dobrok-Gif" height="170" width="180" src="https://media.giphy.com/media/5qFNBDNKJ8hKRMlx0y/giphy.gif">
+  <img align="right" alt="Dobrok-Gif" height="150" width="160" src="https://media.giphy.com/media/5qFNBDNKJ8hKRMlx0y/giphy.gif">
   
  
 </div>
@@ -28,7 +28,6 @@
   <a href="https://www.linkedin.com/in/thiago-machado-473712207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
-   ![Snake animation](https://github.com/thiagomachadoo/thiagomachadoo/blob/output/github-contribution-grid-snake.svg)
-
+ 
  
 </div>
