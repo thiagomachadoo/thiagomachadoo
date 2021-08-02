@@ -5,6 +5,7 @@
 - 💻 Trabalhei com poucos freelance usando JS,HTML,CSS.
 - 📚 Hoje estou estudando para ser um Dev Java Full-Stack.
 - 📃 Obtendo conhecimento e aprimorando com a GeneratiON.
+<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="thiagomachadoo" /> 
 
  <div>
  
@@ -19,6 +20,7 @@
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-JAVA" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="right" alt="Dobrok-Gif" height="150" width="160" src="https://media.giphy.com/media/5qFNBDNKJ8hKRMlx0y/giphy.gif">
+ 
   
  
 </div>
