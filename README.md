@@ -2,7 +2,7 @@
 
 
 - 🏴‍☠️ Comecei minha carreira como dev com 16 anos, atualmente tenho 18.
-- 💻 Trabalhei com poucos trabalhos freelance usando JS,HTML,CSS.
+- 💻 Trabalhei com poucos freelance usando JS,HTML,CSS.
 - 📚 Hoje estou estudando para ser um Dev Java Full-Stack.
 - 📃 Obtendo conhecimento e aprimorando com a GeneratiON.
 
