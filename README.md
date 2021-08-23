@@ -20,6 +20,7 @@
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-JAVA" height="30" width="40" src="https://image.flaticon.com/icons/png/512/226/226777.png">
   <img align="center" alt="Thiago-MYSQL" height="40" width="40" src=https://th.bing.com/th/id/R.f94c51912d572a43d16814c6e5a19548?rik=rFDFT49EEFcd9g&riu=http%3a%2f%2fsqlbackupandftp.com%2fblog%2fwp-content%2fuploads%2f2015%2f01%2fmysql-logo_2800x2800_pixels1-1024x1024.png&ehk=%2f5cRCxk6vXt2fKqtKYUCAB0Vn4FcJk2C%2fdl%2bIPkyrj0%3d&risl=&pid=ImgRaw&r=0>
+ <img align="center" alt="Thiago-SPRING" height="40" width="40" src="https://th.bing.com/th/id/R.17d502cf086bde53ea08f064a31f273c?rik=8zTDJ6fddeBGng&riu=http%3a%2f%2f2.bp.blogspot.com%2f-jFLWiZexGsA%2fVMZANW_6m8I%2fAAAAAAAAHc8%2fRreUt9L5Xno%2fs1600%2fspring-boot-project-logo.png&ehk=3QpwaU1cUdxswoVQaBCnKNccUboNfl5Yy7yuqSdxBw0%3d&risl=&pid=ImgRaw&r=0">
   <img align="right" alt="Dobrok-Gif" height="150" width="160" src="https://media.giphy.com/media/5qFNBDNKJ8hKRMlx0y/giphy.gif">
   
  
