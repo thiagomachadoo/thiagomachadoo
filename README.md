@@ -5,7 +5,7 @@
 - 💻 Trabalhei com poucos freelance usando JS,HTML,CSS.
 - 📚 Hoje estou estudando para ser um Dev Java Full-Stack.
 - 📃 Obtendo conhecimento e aprimorando com a GeneratiON.
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="thiagomachadoo" /> 
+<img src="https://komarev.com/ghpvc/?username=thiagomachadoo&color=green" alt="thiagomachadoo" /> 
 
  <div>
  
