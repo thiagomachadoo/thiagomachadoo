@@ -4,7 +4,8 @@
 - 🏴‍☠️ Comecei minha carreira como dev com 16 anos, atualmente tenho 18.
 - 💻 Trabalhei com poucos freelance usando JS,HTML,CSS.
 - 📚 Hoje estou estudando para ser um Dev Full-Stack.
-- 📃 Obtendo conhecimento e aprimorando com a GeneratiON.
+- ⚡ Codando em Java e Python atualmente.
+- 📃 Aluno turma 30 na Generation Brasil.
 <img src="https://komarev.com/ghpvc/?username=thiagomachadoo&color=green" alt="thiagomachadoo" /> 
 
  <div>
