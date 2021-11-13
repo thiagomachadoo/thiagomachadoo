@@ -5,7 +5,7 @@
 - 💻 Trabalhei com poucos freelance usando JS,HTML,CSS.
 - 📚 Hoje estou estudando para ser um Dev Full-Stack.
 - ⚡ Codando em Java e Python atualmente.
-- 📃 Aluno turma 30 na Generation Brasil.
+- ✅ Bootcamp FullStack Generation Brasil.
 <img src="https://komarev.com/ghpvc/?username=thiagomachadoo&color=green" alt="thiagomachadoo" /> 
 
  <div>
