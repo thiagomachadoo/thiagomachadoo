@@ -4,7 +4,7 @@
 - 🏴‍☠️ Comecei minha carreira como dev com 16 anos, atualmente tenho 18.
 - 💻 Trabalhei com poucos freelance usando JS,HTML,CSS.
 - 📚 Hoje estou estudando para ser um Dev Backend.
-- ⚡ Codando em Java atualmente.
+- ⚡ Codando em Java + Spring atualmente.
 - ✅ Bootcamp FullStack Generation Brasil.
 <img src="https://komarev.com/ghpvc/?username=thiagomachadoo&color=green" alt="thiagomachadoo" /> 
 
