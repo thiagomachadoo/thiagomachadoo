@@ -7,7 +7,6 @@
 - ⚡ Codando em Java + Spring atualmente.
 - ✅ Bootcamp FullStack Generation Brasil.
 <img src="https://komarev.com/ghpvc/?username=thiagomachadoo&color=green" alt="thiagomachadoo" /> 
-
  <div>
  
   <a href="https://github.com/thiagomachadoo">
