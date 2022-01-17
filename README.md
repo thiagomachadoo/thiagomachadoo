@@ -6,7 +6,6 @@
 - 📚 Hoje estou estudando para ser um Dev Backend.
 - ⚡ Codando em Java + Quarkus e VueJs atualmente.
 - ✅ Bootcamp FullStack Generation Brasil.
-<img src="https://komarev.com/ghpvc/?username=thiagomachadoo&color=green" alt="thiagomachadoo" /> 
  <div>
  
   <a href="https://github.com/thiagomachadoo">
