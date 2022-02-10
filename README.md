@@ -29,7 +29,7 @@
   <img align="center" alt="Thiago-HEROKU" height="40" width="40" src="https://user-images.githubusercontent.com/56802688/144688139-9144ef5d-bf81-4aa7-b38b-b1be72fae052.png">
 
 
-  <img align="right" alt="Dobrok-Gif" height="150" width="160" src="https://giphy.com/gifs/horror-creepy-WjMnQiDQHbK6Y">
+  <img align="right" alt="Dobrok-Gif" height="150" width="160" src="https://media.giphy.com/media/5qFNBDNKJ8hKRMlx0y/giphy.gif">
   
  
   
