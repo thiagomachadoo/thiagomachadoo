@@ -4,8 +4,7 @@
 - 🏴‍☠️ Comecei minha carreira como dev com 16 anos, atualmente tenho 19.
 - 💻 Trabalhei com poucos freelance usando JS,HTML,CSS.
 - 📚 Hoje estou estudando para ser um Dev Backend.
-- ⚡ Codando em Java + Quarkus e VueJs atualmente.
-- ✅ Bootcamp FullStack Generation Brasil.
+- ⚡ Codando em Java atualmente.
  <div>
  
   <a href="https://github.com/thiagomachadoo">
