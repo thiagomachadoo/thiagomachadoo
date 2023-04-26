@@ -1,7 +1,7 @@
 ### Opa! Eu sou o Thiago Machado 👋
 
 
-- 🏴‍☠️ Comecei minha carreira como dev com 16 anos, atualmente tenho 19.
+- 🏴‍☠️ Comecei minha carreira como dev com 16 anos, atualmente tenho 20.
 - 💻 Trabalhei com poucos freelance usando JS,HTML,CSS.
 - 📚 Hoje estou estudando para ser um Dev Backend.
 - ⚡ Codando em Java atualmente.
