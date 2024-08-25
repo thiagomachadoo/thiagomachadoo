@@ -1,11 +1,4 @@
-### Opa! Eu sou o Thiago Machado 👋
-
-
-- 🏴‍☠️ Comecei minha carreira como dev com 16 anos, atualmente tenho 20.
-- 💻 Trabalhei com poucos freelance usando JS,HTML,CSS.
-- 📚 Hoje estou estudando para ser um Dev Backend.
-- ⚡ Codando em Java atualmente.
- <div>
+- 🏴‍☠️ Technology is the way
  
   <a href="https://github.com/thiagomachadoo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagomachadoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -17,7 +10,7 @@
 </div>
   
   ##
- ### Conecte-se comigo:
+ ### Contact me:
   
  <div>
 <a href = "mailto:thiagodasilvamachadoo44@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
